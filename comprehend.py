@@ -1,5 +1,3 @@
-
-
 class Comprehender:
 
     def __init__(self, text):
